@@ -6,7 +6,7 @@
 
 ## Caution
 
-- The working of this for 2021-2025 batch students has NOT been extensively tested. Reporting any buys is appreciated.
+- The working of this for 2021-2025 batch students has NOT been extensively tested. Reporting any bugs is appreciated.
 - If you're a '25 batch student and don't see your course, please contact one of the maintainers and get your courses added.
 
 ## Screenshot
