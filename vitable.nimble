@@ -11,3 +11,4 @@ bin           = @["vitable"]
 # Dependencies
 
 requires "docopt"
+requires "notify"

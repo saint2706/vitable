@@ -158,8 +158,7 @@ cp src/vitable $HOME
 - <a href="https://github.com/saintwithataint">Rishabh Agrawal</a>
 
 ## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+This application is licensed under the [Cartel Project Public License](https://github.com/CartelProject/cpl).
 
 <p align="center">
  Made with :heart: by <a href="https://github.com/CartelProject" target="_blank">The Cartel Family</a>
